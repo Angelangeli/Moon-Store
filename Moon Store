@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moon Store - Skins Fofinhas para FiveM</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            background-color: #1a1a1a;
+            color: #f0f0f0;
+            text-align: center;
+        }
+        header {
+            background-color: #2e2e2e;
+            padding: 20px;
+        }
+        header h1 {
+            color: #ffccff;
+            font-size: 2.5em;
+            margin: 0;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+            border-radius: 10px;
+        }
+        .content a {
+            display: inline-block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color: #ffccff;
+            color: #1a1a1a;
+            text-decoration: none;
+            font-size: 1.2em;
+            border-radius: 5px;
+        }
+        .content a:hover {
+            background-color: #f0a8f0;
+        }
+        footer {
+            background-color: #2e2e2e;
+            padding: 10px;
+            font-size: 0.9em;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Moon Store 🌙✨</h1>
+    </header>
+    <div class="content">
+        <img src="https://cdn.discordapp.com/attachments/1313905157481959424/1320480549810208848/moonstor1.png?ex=6769c0d8&is=67686f58&hm=dd5e532cf3b3586056f9ff089ac93571120552b250692d715aa9245388e82851&" alt="Moon Store Logo">
+        <p>
+            Bem-vindo à <strong>Moon Store</strong>, onde a fofura encontra o estilo! 💖 Aqui você encontra as melhores skins para FiveM no estilo <strong>baby</strong> e super <strong>kawaii</strong>, perfeitas para deixar seu personagem único e cheio de personalidade. 🍼🎀
+        </p>
+        <h2>🌸 <strong>Por que escolher a Moon Store?</strong></h2>
+        <ul style="text-align: left; display: inline-block;">
+            <li>Skins exclusivas e de pronta entrega.</li>
+            <li>Modelos fofos que combinam com o estilo baby e delicado.</li>
+            <li>Atualizações constantes para sempre trazer novidades incríveis.</li>
+            <li>Atendimento dedicado para garantir sua melhor experiência.</li>
+        </ul>
+        <p>
+            Transforme sua experiência no FiveM com a Moon Store e brilhe como a lua no seu servidor favorito! 🌌
+        </p>
+        <h2>✨ <strong>Moon Store - Porque fofura nunca é demais! ✨</strong></h2>
+        <h3><span style="color: #ffccff;">💖 VALORES 💖</span></h3>
+        <p>
+            <strong>Closet Fofuxo</strong><br>
+            2 roupas ⇥ R$ 40,00<br>
+            3 roupas ⇥ R$ 60,00<br>
+            4 roupas ⇥ R$ 90,00<br>
+            5 roupas ⇥ R$ 100,00<br>
+            +5 roupas ⇥ consultar via ticket<br>
+        </p>
+        <p>
+            <strong>Closet Baby</strong><br>
+            2 roupas ➮ R$ 30,00<br>
+            3 roupas ➮ R$ 40,00<br>
+            4 roupas ➮ R$ 50,00<br>
+            5 roupas ➮ R$ 60,00<br>
+            +5 roupas ➮ consultar via ticket<br>
+        </p>
+        <p>FOFUXO ⟶ $30<br>BABY ⟶ $20</p>
+        <a href="https://discord.gg/VbXYnqDP" target="_blank">Entrar no Discord</a>
+    </div>
+    <footer>
+        &copy; 2024 Moon Store. Todos os direitos reservados. Feito com 💖
+    </footer>
+</body>
+</html>
+
